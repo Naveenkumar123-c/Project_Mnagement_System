@@ -1,1 +1,1 @@
-# Project_Mnagement_System
+# Project_Management_System
